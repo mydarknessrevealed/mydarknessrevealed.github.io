@@ -1,21 +1,9 @@
+About Me
 
-# 🕱 About Me  
+I am the ghost in the machine, the poet of the abyss, the architect of digital chaos. I carve words like scars into the flesh of memory, build worlds from the ashes of forgotten dreams, and weave code into something that breathes—something that haunts.
 
-## 👁 Welcome to the Void  
+My work? A symphony of entropy. A labyrinth of hacked-together scripts, experimental soundscapes, and prose that drips with madness. I walk the razor’s edge between creation and destruction, between poetry and raw, unfiltered data. I break things just to understand them. I write to exorcise the demons, and sometimes, they write back.
 
-I am the architect of entropy, the poet of digital damnation, the ghost whispering in corrupted code. My work is an unholy fusion of hacked-together scripts, twisted poetry, and soundscapes that hum with madness. I don’t just write—I summon.  
+Here, you’ll find fragments of my obsessions—projects born in the witching hour, verses that won’t let go, and echoes of a mind that refuses to be contained. Welcome to the void. Let’s make something unholy.
 
-## ⚙️ What I Do  
-
-- **🖤 Code Necromancy** – Resurrecting dead scripts, breathing life into the forgotten.  
-- **🕷 Experimental Sound & Noise** – From mechanical whispers to apocalyptic drones.  
-- **📖 Dark Prose & Poetry** – Words that cut, stories that linger.  
-- **☠️ Website Development & Chaos** – Breaking things to understand them.  
-
-
-## ⛧ Connect with the Abyss  
-
-- **🐍 GitHub:** 
-- **💀 Facebook**
-**Enter at your own risk. The void is hungry.** 
-
+# mydarknessrevealed.github.io 
