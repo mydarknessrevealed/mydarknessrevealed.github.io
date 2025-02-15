@@ -22,10 +22,11 @@ body {
     font-style: italic;
     margin-top: auto;
     margin-right: 20px;
-}#hero {
+}
+
+#hero {
     text-align: center;
     /* Add any other styling for the hero section here */
-    }
 }
 
 /* Add any other styling you need here */
@@ -44,4 +45,3 @@ nav a {
     text-decoration: none; /* Remove underlines */
     margin: 0 10px; /* Add space between links */
 }
-
