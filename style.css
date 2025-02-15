@@ -1,25 +1,43 @@
 body {
     background-color: black;
-    color: silver-grey;
-    font-family: sans-serif; /* Or any font you like */
+    color: silver; /* Or silver-grey if you prefer */
+    font-family: sans-serif;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Horizontally center content */
-    justify-content: center; /* Vertically center content */
-    min-height: 100vh; /* Ensure full viewport height */
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
     margin: 0;
 }.poem-title {
     font-style: italic;
     font-weight: bold;
-    text-align: center; /* Center the title */
-    margin-bottom: 20px; /* Add some space below */
+    text-align: center;
+    margin-bottom: 20px;
 }.poem-content {
-    text-align: center; /* Center the poem text */
-    margin-bottom: 30px; /* Add some space below */
+    text-align: center;
+    margin-bottom: 30px;
     max-width: 600px; /* Adjust as needed */
 }.author {
-    text-align: right; /* Align to the bottom right */
+    text-align: right;
     font-style: italic;
-    margin-top: auto; /* Push to the bottom */
-    margin-right: 20px; /* Add some right margin */
+    margin-top: auto;
+    margin-right: 20px;
 }
+
+/* Add any other styling you need here */
+header {
+    text-align: center; /* Center the header content */
+    padding: 10px;
+}
+
+nav {
+    text-align: center; /* Center the navigation links */
+    padding: 10px;
+}
+
+nav a {
+    color: silver; /* White link color */
+    text-decoration: none; /* Remove underlines */
+    margin: 0 10px; /* Add space between links */
+}
+
