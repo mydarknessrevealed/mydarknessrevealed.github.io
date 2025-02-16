@@ -10,10 +10,6 @@ My poetry is inspired by a variety of sources, including gothic literature, exis
 
 The poems in this repository are indexed in a list on the hommepage. You will find the individual HTML files for each poem within this repository.
 
-## Navigation
-
-The website is designed to be easy to navigate. You can use the navigation menu at the top of the page to access the different collections and poems. You can also use the search bar to find specific poems.
-
 ## Contributing
 
 If you would like to contribute to this repository, please feel free to submit a pull request. I am always open to new ideas and suggestions.
