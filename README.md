@@ -20,7 +20,7 @@ The poems in this repository are licensed under the Creative Commons Attribution
 
 ## Contact
 
-If you have any questions or comments, please feel free to contact me at [your email address].
+If you have any questions or comments, please feel free to contact me at mydarknessrevealed@gmail.
 
 Thank you for visiting!
 
